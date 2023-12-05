@@ -65,7 +65,7 @@ This blend of powerful technologies allows us to deliver a robust, efficient, an
 
 ### Team's experience
 
-We've developed numerous solutions for various clients within last 6 years with VeChain. For Nissan, BMW, Hermes, Cartier, Givenchy, PwC, Gustav Gerig, i-Dante EH Cert, Bitcoin Movement, LTD.INC, Digital Village to name a few.
+We've developed numerous solutions for various clients within the last 6 years with VeChain. For Nissan, BMW, Hermes, Cartier, Givenchy, PwC, Gustav Gerig, i-Dante EH Cert, Bitcoin Movement, LTD.INC, Digital Village to name a few.
 
 ### Team Code Repos
 
@@ -79,38 +79,28 @@ We've developed numerous solutions for various clients within last 6 years with 
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Milestone 5 | Total |
-| - | - | - | - | - | - | - |
-| Estimated Duration | 4w | 6w | 5w | 3w | 4w | 22w |
-| Full-time equivalent (FTE) | 3 | 3 | 3 | 3 | 3 | |
-| Cost (up to $ 30,000) | $5,500 | $8,000 | $6,800 | $4,200 | $5,500 | $30,000 |
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| - | - | - | - | - |
+| Estimated Duration | 6w | 4w | 4w | 14w |
+| Full-time equivalent (FTE) | 3 | 3 | 3 | |
+| Cost (up to $ 30,000) | $14,000 | $8,000 | $8,000 | $30,000 |
 
-#### Milestone 1: Product Catalogue
+#### Milestone 1: Product Catalog, Journey, Story Telling, Track and Trace
 
-- Develop a comprehensive product catalogue that includes all the relevant information about the products.
+- Develop a comprehensive product catalog that includes all the relevant information about the products.
 - Implement a user-friendly interface for browsing and searching products.
 - Enable filtering and sorting options for customers to find products easily.
 - Integrate product images and descriptions to enhance the user experience.
-
-#### Milestone 2: Product Journey / Track & Trace / Ownership Transfer
-
 - Design and implement a system to track and trace the product journey from manufacturing to delivery.
-- Enable customers to track their orders in real-time and receive updates on the shipment status.
-- Develop a secure ownership transfer mechanism to facilitate the transfer of product ownership between customers.
+- Implement the VeChain NFC Chips authentication module to display product information, journey, and tracking information.
 
-#### Milestone 3: Tag & Toolchain Credit Consumption Report
-
-- Integrate a tagging system to track the consumption of tags and tools within the product ecosystem.
-- Develop a reporting mechanism to generate credit consumption reports for tags and tools.
-- Enable customers to access and review their credit consumption data for better inventory management.
-
-#### Milestone 4: Customer Feedback / Support Request Form submission
+#### Milestone 2: Customer Feedback / Support Request Form submission
 
 - Implement a customer feedback system to gather valuable insights and suggestions.
 - Create a support request form to streamline customer inquiries and support requests.
 - Develop a backend system to manage and prioritize customer support tickets effectively.
 
-#### Milestone 5: Warranty Management and Tracking
+#### Milestone 3: Warranty Management and Tracking
 
 - Enable customers to provide feedback on their experience with after-sales services.
 - Implement a notification system to keep customers informed about after-sales services.
@@ -125,8 +115,8 @@ We've developed numerous solutions for various clients within last 6 years with 
 
 ## Future Plans
 
-We are planning to build a solution that can cater to various type of industry for track and trace, product strory telling and use cases around that.
+We are planning to build a solution that can cater to various types of industries for track and trace, product storytelling, and use cases around that.
 
 ## Additional Information 
 
-We’ve successfully created a prototype for WorldOfV and PwC.
+We’ve successfully created a prototype for WorldOfV, PwC, and the Karnataka Judo Association.
